@@ -6,12 +6,8 @@ lost or found items, lack reliability in ensuring that the message reaches the c
 person. Track It Down aims to provide a centralized platform for finding lost items and 
 reporting found items. The application utilizes a MongoDB database and incorporates a 
 verification process to authenticate the rightful receiver of a found item. 
- In educational institutions like KMIT, the constant occurrence of lost items 
+ In educational institutions, the constant occurrence of lost items 
 causes significant inconvenience and financial burdens for students and teachers. The 
 primary motivation behind this project is to simplify the process of locating lost items while 
 ensuring that they are returned to their rightful owners. 
- In educational institutions like KMIT, the constant occurrence of lost items 
-causes significant inconvenience and financial burdens for students and teachers. The 
-primary motivation behind this project is to simplify the process of locating lost items while 
-ensuring that they are returned to their rightful owners.
 
